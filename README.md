@@ -1,5 +1,6 @@
 # 15-puzzle
-15-puzzle (#python #python3 #Qt #PySide #game)
+15-puzzle
 
 ======
+
 ![](screenshot.png)
